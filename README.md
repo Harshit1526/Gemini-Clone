@@ -22,31 +22,45 @@ To run the project locally, follow these steps:
 git clone https://github.com/Harshit1526/Gemini-Clone.git
 
 2.Navigate to the project directory:
-cd gemini-clone
+```sh
+$ cd clone 
+```
 
-3.Install dependencies:
-## npm install
+## 3.Install dependencies:
+```sh
+$ npm install 
+```
 
-Usage
+## Usage
 To start the development server, run the following command:
-npm run dev
+```sh
+$ npm run dev 
+```
 
 
-Contributing
+# Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1.Fork the repository.
 
 2.Create a new branch for your feature or fix:
-
-git checkout -b feature/your-feature-name
+```sh
+$ git checkout -b feature/your-feature-name
+```
 Make your changes and commit them:
-git commit -m "Your commit message"
+
+```sh
+$ git commit -m "Your commit message"
+```
 
 3.Push to your branch:
-git push origin feature/your-feature-name
+$ git push origin feature/your-feature-name
 
 4.Open a pull request to the main branch of the original repository.
 
-License
-This project is licensed under the MIT License.
+### License
+Copyright © 2024, [Harshit Sharma](https://github.com/Harshit1526).
+Released under the [MIT License](LICENSE).
+
+
+***
