@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Gemini Clone
+# Gemini Clone
 
 A clone project of Gemini, utilizing the Gemini API. Built with React.js.
 
@@ -25,7 +25,7 @@ git clone https://github.com/Harshit1526/Gemini-Clone.git
 cd gemini-clone
 
 3.Install dependencies:
-npm install
+## npm install
 
 Usage
 To start the development server, run the following command:
